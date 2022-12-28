@@ -1,3 +1,7 @@
+#Andrew Bruckbauer
+#12/20/2022
+#Meant to be used to add a letter value to a colored cell in an excel spreadsheet for use in other scripts.
+
 import openpyxl
 from tqdm import tqdm  # tqdm is a library for creating progress bars
 import os  # os is the Python standard library for interacting with the operating system
